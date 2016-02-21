@@ -1,0 +1,14 @@
+.idea/
+.DS_Store
+.ruby-version
+
+# Ignore bundler config.
+/.bundle
+
+# Ignore all logfiles and tempfiles.
+/log/*
+!/log/.keep
+/tmp
+
+# Ignore Spring files.
+/spring/*.pid
